@@ -1,0 +1,48 @@
+/*Introductory Text*/
+.bg-dark {
+  background-color: #CDC7E8 !important;
+  border-radius: 30px 0px 30px;
+}
+
+.navbar-dark .navbar-nav .nat-item .nav-link:focus, .navbar-dark .navbar-nav .nav-item .nav-link:hover {
+  color: #333;
+}
+
+.navbar-dark .navbar-nav .nav-item .nav-link {
+  color: #1219E8;
+}
+
+.navbar-dark .navbar-nav .nav-item .nav-link:active {
+  text-shadow: 2px 2px #35FF03;
+}
+
+
+.heading {
+  text-align: center;
+}
+
+.heading h1 {
+  font-size: 48px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.heading h2 {
+  font-size: 24px;
+  font-family: monospace;
+}
+
+.introimage {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  padding-bottom: 50px;
+}
+
+/*footer*/
+.footer {
+  background-color: #CDC7E8;
+  border-radius: 10px 10px 10px 10px;
+  display: inline-block;
+}

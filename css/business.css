@@ -1,0 +1,49 @@
+.bg-dark {
+  background-color: #CDC7E8 !important;
+  border-radius: 30px 0px 30px;
+}
+
+.navbar-dark .navbar-nav .nat-item .nav-link:focus, .navbar-dark .navbar-nav .nav-item .nav-link:hover {
+  color: #333;
+}
+
+.navbar-dark .navbar-nav .nav-item .nav-link {
+  color: #1219E8;
+}
+
+.navbar-dark .navbar-nav .nav-item .nav-link:active {
+  text-shadow: 2px 2px #35FF03;
+}
+
+
+.text {
+  word-wrap: break-word;
+  padding-left: 15px;
+  padding-right: 50px;
+}
+
+.big {
+  text-align: center;
+}
+
+.image {
+  float: left;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.text img {
+  width: 100%;
+  padding-top: 30px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/*footer*/
+.footer {
+  background-color: #CDC7E8;
+  border-radius: 10px 10px 10px 10px;
+  display: inline-block;
+}
